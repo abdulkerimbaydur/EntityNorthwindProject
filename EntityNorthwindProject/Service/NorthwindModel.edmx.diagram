@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="64afc13152854dd4a84eca5740eedbcc" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.Kategoriler" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.MUSTERILER" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.PERSONELLER" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.SIPARIS" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.SIPARIS_DETAY" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.TEDARIKCILER" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.URUNLER" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.View_Kategoriler" Width="1.5" PointX="7.75" PointY="4.75" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.View_Musteriler" Width="1.5" PointX="7.75" PointY="7.75" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.View_PERSONEL_LIST" Width="1.5" PointX="0.75" PointY="8.75" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.View_SIPARIS_DETAY_LIST" Width="1.5" PointX="2.75" PointY="8.75" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.View_SIPARIS_LIST" Width="1.5" PointX="4.75" PointY="8.75" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.View_Tedarikci_List" Width="1.5" PointX="9.75" PointY="0.75" />
+        <EntityTypeShape EntityType="NorthwindTR_DbModel.View_Urunler_List" Width="1.5" PointX="9.75" PointY="3.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
